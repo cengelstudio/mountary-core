@@ -1,0 +1,7 @@
+psutil==5.9.8
+pyinstaller==6.3.0
+colorama==0.4.6
+requests==2.31.0
+watchdog==3.0.0
+setuptools>=65.5.1
+wheel>=0.38.4
