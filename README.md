@@ -1,4 +1,5 @@
-# Pelikul (Core)
+# _Mountary (Core)
+_Mountary = Mount + Inventory_
 
 The core part of a project designed for media companies to keep track of portable external drives (e.g., SSDs, HDDs, or SD cards), allowing remote monitoring of their content, specifications, and the last used computers.
 
