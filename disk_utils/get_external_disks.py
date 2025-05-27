@@ -1,8 +1,8 @@
 import psutil
 import platform
 import os
-from get_disk_label import get_disk_label
-from get_disk_serial import get_disk_serial
+from disk_utils.get_disk_label import get_disk_label
+from disk_utils.get_disk_serial import get_disk_serial
 
 def generate_disk_id(disk_info):
     """

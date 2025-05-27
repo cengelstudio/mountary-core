@@ -1,0 +1,3 @@
+from config.config import API_CONFIG, COLORS, LOGGING_CONFIG, DISK_CONFIG
+
+__all__ = ['API_CONFIG', 'COLORS', 'LOGGING_CONFIG', 'DISK_CONFIG']

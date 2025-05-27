@@ -5,8 +5,8 @@ from watchdog.events import FileSystemEventHandler
 from datetime import datetime
 import json
 import platform
-from get_external_disks import get_external_disks
-from save_disk_contents import save_disk_contents
+from disk_utils.get_external_disks import get_external_disks
+from monitoring.save_disk_contents import save_disk_contents
 
 class DiskChangeHandler(FileSystemEventHandler):
     def __init__(self, disk_info):

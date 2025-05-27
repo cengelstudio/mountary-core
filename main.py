@@ -5,15 +5,15 @@ import json
 import requests
 import unicodedata
 from datetime import datetime
-from get_connected_disks import get_connected_disks
-from get_external_disks import get_external_disks
-from save_to_json import save_to_json
-from format_size import format_size
-from config import COLORS, API_CONFIG
+from disk_utils.get_connected_disks import get_connected_disks
+from disk_utils.get_external_disks import get_external_disks
+from utils.save_to_json import save_to_json
+from utils.format_size import format_size
+from config.config import COLORS, API_CONFIG
 from colorama import init
 import psutil
-from disk_monitor import DiskMonitor
-from save_disk_contents import save_disk_contents
+from monitoring.disk_monitor import DiskMonitor
+from monitoring.save_disk_contents import save_disk_contents
 
 # Initialize colorama
 init()

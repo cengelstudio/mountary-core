@@ -5,7 +5,7 @@ from datetime import datetime
 import requests
 import unicodedata
 import time
-from config import API_CONFIG, COLORS
+from config.config import API_CONFIG, COLORS
 
 def print_colored(text, color):
     """Print colored text to terminal."""
