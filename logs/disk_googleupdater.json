@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-05-27T23:07:36.563112",
+  "system_info": {
+    "os": "Darwin",
+    "os_version": "Darwin Kernel Version 24.0.0: Mon Aug 12 20:54:30 PDT 2024; root:xnu-11215.1.10~2/RELEASE_X86_64",
+    "hostname": "Metehan-Saral-MacBook-Pro.local"
+  },
+  "disk_info": {
+    "device": "/dev/disk5s2",
+    "mountpoint": "/Volumes/GoogleUpdater",
+    "fstype": "hfs",
+    "total_size": 24178688,
+    "used": 24178688,
+    "free": 0,
+    "percent": 100.0,
+    "label": "GoogleUpdater",
+    "serial": "c8ccd7db-c75d-48e0-a9af-6dd617cbb00d",
+    "disk_id": "googleupdater"
+  },
+  "contents": []
+}

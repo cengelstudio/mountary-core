@@ -92,3 +92,18 @@ cython_debug/
 *.iml
 *.iws
 
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk

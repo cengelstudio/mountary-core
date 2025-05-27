@@ -1,0 +1,1098 @@
+{
+  "timestamp": "2025-05-27T23:09:00.320148",
+  "system_info": {
+    "os": "Darwin",
+    "os_version": "Darwin Kernel Version 24.0.0: Mon Aug 12 20:54:30 PDT 2024; root:xnu-11215.1.10~2/RELEASE_X86_64",
+    "hostname": "Metehan-Saral-MacBook-Pro.local"
+  },
+  "disk_info": {
+    "device": "/dev/disk4s2",
+    "mountpoint": "/Volumes/safeboot",
+    "fstype": "exfat",
+    "total_size": 61309321216,
+    "used": 2379087872,
+    "free": 58930233344,
+    "percent": 3.9,
+    "label": "safeboot",
+    "serial": "8a20b5c9-3216-4cae-a07b-3c2081cfb8d7",
+    "disk_id": "safeboot"
+  },
+  "contents": [
+    {
+      "name": "kostebek.apk",
+      "type": "file",
+      "path": "/Volumes/safeboot/kostebek.apk",
+      "size": 30583418,
+      "created": "2024-11-28 18:49:38",
+      "modified": "2024-11-28 18:49:38"
+    },
+    {
+      "name": "Kaplumbaga Terbiyecisi.jpg",
+      "type": "file",
+      "path": "/Volumes/safeboot/Kaplumbaga Terbiyecisi.jpg",
+      "size": 841193,
+      "created": "2024-11-28 03:02:18",
+      "modified": "2024-11-28 03:02:18"
+    },
+    {
+      "name": "cengel studio",
+      "type": "directory",
+      "path": "/Volumes/safeboot/cengel studio",
+      "size": null,
+      "created": "2024-11-28 17:14:31",
+      "modified": "2024-11-28 17:14:31",
+      "contents": [
+        {
+          "name": "assets",
+          "type": "directory",
+          "path": "/Volumes/safeboot/cengel studio/assets",
+          "size": null,
+          "created": "2024-11-28 17:14:38",
+          "modified": "2024-11-28 17:14:38",
+          "contents": [
+            {
+              "name": "logo-3000x3000.png",
+              "type": "file",
+              "path": "/Volumes/safeboot/cengel studio/assets/logo-3000x3000.png",
+              "size": 65122,
+              "created": "2024-11-18 00:43:28",
+              "modified": "2024-11-18 00:43:28"
+            },
+            {
+              "name": "linkedin-cover.png",
+              "type": "file",
+              "path": "/Volumes/safeboot/cengel studio/assets/linkedin-cover.png",
+              "size": 4546,
+              "created": "2024-11-18 00:50:22",
+              "modified": "2024-11-18 00:50:22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vpn config",
+      "type": "directory",
+      "path": "/Volumes/safeboot/vpn config",
+      "size": null,
+      "created": "2024-11-28 17:15:55",
+      "modified": "2024-11-28 17:15:55",
+      "contents": [
+        {
+          "name": "asistal-metehansaral.ovpn",
+          "type": "file",
+          "path": "/Volumes/safeboot/vpn config/asistal-metehansaral.ovpn",
+          "size": 7672,
+          "created": "2024-03-18 16:48:51",
+          "modified": "2024-03-18 16:48:51"
+        }
+      ]
+    },
+    {
+      "name": "posts",
+      "type": "directory",
+      "path": "/Volumes/safeboot/posts",
+      "size": null,
+      "created": "2024-11-28 17:16:39",
+      "modified": "2024-11-28 17:16:39",
+      "contents": [
+        {
+          "name": "bebek",
+          "type": "directory",
+          "path": "/Volumes/safeboot/posts/bebek",
+          "size": null,
+          "created": "2024-07-08 05:58:36",
+          "modified": "2024-07-08 05:58:36",
+          "contents": [
+            {
+              "name": "2.png",
+              "type": "file",
+              "path": "/Volumes/safeboot/posts/bebek/2.png",
+              "size": 30433231,
+              "created": "2024-07-08 05:38:56",
+              "modified": "2024-07-08 05:38:56"
+            },
+            {
+              "name": "3.png",
+              "type": "file",
+              "path": "/Volumes/safeboot/posts/bebek/3.png",
+              "size": 12112688,
+              "created": "2024-07-08 05:36:47",
+              "modified": "2024-07-08 05:36:47"
+            },
+            {
+              "name": "1.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/posts/bebek/1.jpg",
+              "size": 8185961,
+              "created": "2024-07-08 05:41:45",
+              "modified": "2024-07-08 05:41:45"
+            }
+          ]
+        },
+        {
+          "name": "tuav.jpg",
+          "type": "file",
+          "path": "/Volumes/safeboot/posts/tuav.jpg",
+          "size": 925145,
+          "created": "2024-07-08 05:48:34",
+          "modified": "2024-07-08 05:48:34"
+        }
+      ]
+    },
+    {
+      "name": "movies",
+      "type": "directory",
+      "path": "/Volumes/safeboot/movies",
+      "size": null,
+      "created": "2024-11-28 02:44:21",
+      "modified": "2024-11-28 02:44:21",
+      "contents": [
+        {
+          "name": "turkish teen couple",
+          "type": "directory",
+          "path": "/Volumes/safeboot/movies/turkish teen couple",
+          "size": null,
+          "created": "2024-11-28 17:17:55",
+          "modified": "2024-11-28 17:17:55",
+          "contents": [
+            {
+              "name": "turkish-teen-couple-xmas.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/turkish-teen-couple-xmas.mp4",
+              "size": 252886675,
+              "created": "2020-12-07 00:51:48",
+              "modified": "2020-12-07 00:51:48"
+            },
+            {
+              "name": "xvideos.com_aef8b72418a05e986955a4d28ab66557.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_aef8b72418a05e986955a4d28ab66557.mp4",
+              "size": 37888392,
+              "created": "2021-04-07 17:59:28",
+              "modified": "2021-04-07 17:59:28"
+            },
+            {
+              "name": "xvideos.com_c470c8bc57c9db38910e72251b292006-1.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_c470c8bc57c9db38910e72251b292006-1.mp4",
+              "size": 35860491,
+              "created": "2021-07-12 12:54:42",
+              "modified": "2021-07-12 12:54:42"
+            },
+            {
+              "name": "OMG_this_big_cock_cant_stop_cumming_on_my_huge_tits[Pornhub Downloader].mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/OMG_this_big_cock_cant_stop_cumming_on_my_huge_tits[Pornhub Downloader].mp4",
+              "size": 250756773,
+              "created": "2021-04-06 15:03:35",
+              "modified": "2021-04-06 15:03:35"
+            },
+            {
+              "name": "He ripped my leather leggings before fucking me.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/He ripped my leather leggings before fucking me.mp4",
+              "size": 86565731,
+              "created": "2021-02-08 15:53:48",
+              "modified": "2021-02-08 15:53:48"
+            },
+            {
+              "name": "xvideos.com_0206faa13f4980901a5c4f1d71776ec6.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_0206faa13f4980901a5c4f1d71776ec6.mp4",
+              "size": 51858939,
+              "created": "2021-04-07 18:16:31",
+              "modified": "2021-04-07 18:16:31"
+            },
+            {
+              "name": "xvideos.com_2d7a9de70f676769d7c46c49709665ec.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_2d7a9de70f676769d7c46c49709665ec.mp4",
+              "size": 45973011,
+              "created": "2021-04-07 18:02:14",
+              "modified": "2021-04-07 18:02:14"
+            },
+            {
+              "name": "xvideos.com_ab58cb3c719731eddb6c705ecdcf5232.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_ab58cb3c719731eddb6c705ecdcf5232.mp4",
+              "size": 44566362,
+              "created": "2021-04-07 18:02:32",
+              "modified": "2021-04-07 18:02:32"
+            },
+            {
+              "name": "xvideos.com_0169addedf02d24ee7ba8d7cd67b5e11-1.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_0169addedf02d24ee7ba8d7cd67b5e11-1.mp4",
+              "size": 41535847,
+              "created": "2021-04-07 18:00:13",
+              "modified": "2021-04-07 18:00:13"
+            },
+            {
+              "name": "xvideos.com_0f91c4769c11063b2a0cfb3e0b9c734a-1.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_0f91c4769c11063b2a0cfb3e0b9c734a-1.mp4",
+              "size": 33549098,
+              "created": "2021-04-07 18:01:17",
+              "modified": "2021-04-07 18:01:17"
+            },
+            {
+              "name": "xvideos.com_0248054bbf57673dda901ee44a847649.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_0248054bbf57673dda901ee44a847649.mp4",
+              "size": 32986436,
+              "created": "2021-04-07 18:03:00",
+              "modified": "2021-04-07 18:03:00"
+            },
+            {
+              "name": "xvideos.com_14f6baa84f54ce2044268d836d248e20.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_14f6baa84f54ce2044268d836d248e20.mp4",
+              "size": 32921484,
+              "created": "2021-04-07 18:02:44",
+              "modified": "2021-04-07 18:02:44"
+            },
+            {
+              "name": "xvideos.com_54b2d2db804cd925bd3ea28f5ed95970.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_54b2d2db804cd925bd3ea28f5ed95970.mp4",
+              "size": 25621816,
+              "created": "2021-04-07 18:01:19",
+              "modified": "2021-04-07 18:01:19"
+            },
+            {
+              "name": "xvideos.com_a3eaa3edb248eedd596a4b78e83941b5.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_a3eaa3edb248eedd596a4b78e83941b5.mp4",
+              "size": 24841320,
+              "created": "2021-04-07 18:03:48",
+              "modified": "2021-04-07 18:03:48"
+            },
+            {
+              "name": "xvideos.com_ba3a48ea40727dddae83d17f101dd32b-1.mp4",
+              "type": "file",
+              "path": "/Volumes/safeboot/movies/turkish teen couple/xvideos.com_ba3a48ea40727dddae83d17f101dd32b-1.mp4",
+              "size": 20835658,
+              "created": "2021-04-07 18:05:09",
+              "modified": "2021-04-07 18:05:09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "archive",
+      "type": "directory",
+      "path": "/Volumes/safeboot/archive",
+      "size": null,
+      "created": "2024-11-28 18:32:52",
+      "modified": "2024-11-28 18:32:52",
+      "contents": [
+        {
+          "name": "tramvayları boşuna mı idam ettik?.pdf",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/tramvayları boşuna mı idam ettik?.pdf",
+          "size": 1834742,
+          "created": "2024-06-05 22:10:59",
+          "modified": "2024-06-05 22:10:59"
+        },
+        {
+          "name": "İrem Mail.png",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/İrem Mail.png",
+          "size": 1482464,
+          "created": "2024-11-15 14:42:33",
+          "modified": "2024-11-15 14:42:33"
+        },
+        {
+          "name": "AsistERP Sunum Şubat 2024.pdf",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/AsistERP Sunum Şubat 2024.pdf",
+          "size": 6553230,
+          "created": "2024-02-23 10:58:34",
+          "modified": "2024-02-23 10:58:34"
+        },
+        {
+          "name": "Ubuntu Glynet.png",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/Ubuntu Glynet.png",
+          "size": 4315144,
+          "created": "2021-12-27 23:00:19",
+          "modified": "2021-12-27 23:00:19"
+        },
+        {
+          "name": "füniküler şema.jpg",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/füniküler şema.jpg",
+          "size": 47859,
+          "created": "2022-01-28 21:33:18",
+          "modified": "2022-01-28 21:33:18"
+        },
+        {
+          "name": "ass billboard.png",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/ass billboard.png",
+          "size": 525504,
+          "created": "2021-12-29 18:32:23",
+          "modified": "2021-12-29 18:32:23"
+        },
+        {
+          "name": "25034_210758232392867_360165960_n.jpg",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/25034_210758232392867_360165960_n.jpg",
+          "size": 138997,
+          "created": "2012-11-23 11:23:34",
+          "modified": "2012-11-23 11:23:34"
+        },
+        {
+          "name": "Metehan.gif",
+          "type": "file",
+          "path": "/Volumes/safeboot/archive/Metehan.gif",
+          "size": 38361,
+          "created": "2021-01-14 17:09:42",
+          "modified": "2021-01-14 17:09:42"
+        }
+      ]
+    },
+    {
+      "name": "music",
+      "type": "directory",
+      "path": "/Volumes/safeboot/music",
+      "size": null,
+      "created": "2024-10-15 19:17:30",
+      "modified": "2024-10-15 19:17:30",
+      "contents": [
+        {
+          "name": "Hadise - Aşk Kaç Beden Giyer.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Hadise - Aşk Kaç Beden Giyer.mp3",
+          "size": 8053237,
+          "created": "2024-09-30 23:57:57",
+          "modified": "2024-09-30 23:57:57"
+        },
+        {
+          "name": "Halimberes - Şaheser.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Halimberes - Şaheser.mp3",
+          "size": 8256789,
+          "created": "2024-10-01 00:46:04",
+          "modified": "2024-10-01 00:46:04"
+        },
+        {
+          "name": "Murda - Duman.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Murda - Duman.mp3",
+          "size": 7494299,
+          "created": "2024-09-30 23:57:57",
+          "modified": "2024-09-30 23:57:57"
+        },
+        {
+          "name": "JAY - Z & Kanye West - Ni**as In Paris (Pizzata & Klein Remix).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/JAY - Z & Kanye West - Ni**as In Paris (Pizzata & Klein Remix).mp3",
+          "size": 3642211,
+          "created": "2024-10-01 01:22:39",
+          "modified": "2024-10-01 01:22:39"
+        },
+        {
+          "name": "HAVANA BROWN - PARTY LIKE A ROCKSTAR (High).wav",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/HAVANA BROWN - PARTY LIKE A ROCKSTAR (High).wav",
+          "size": 53869102,
+          "created": "2024-10-01 01:10:06",
+          "modified": "2024-10-01 01:10:06"
+        },
+        {
+          "name": "Halimberes - Yarın.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Halimberes - Yarın.mp3",
+          "size": 8171756,
+          "created": "2024-10-01 00:46:04",
+          "modified": "2024-10-01 00:46:04"
+        },
+        {
+          "name": "M Lisa - ARABA.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/M Lisa - ARABA.mp3",
+          "size": 2230495,
+          "created": "2024-09-30 23:57:57",
+          "modified": "2024-09-30 23:57:57"
+        },
+        {
+          "name": "TLC - No Scrubs (Pizzata & Klein x Nena Polap Remix).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/TLC - No Scrubs (Pizzata & Klein x Nena Polap Remix).mp3",
+          "size": 3591313,
+          "created": "2024-10-01 01:29:39",
+          "modified": "2024-10-01 01:29:39"
+        },
+        {
+          "name": "Pitbull - Hotel Room Service (Bexxie Remix).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Pitbull - Hotel Room Service (Bexxie Remix).mp3",
+          "size": 2741864,
+          "created": "2024-10-01 01:19:55",
+          "modified": "2024-10-01 01:19:55"
+        },
+        {
+          "name": "Tita Lau - The Madonna (Feels Like).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Tita Lau - The Madonna (Feels Like).mp3",
+          "size": 3035080,
+          "created": "2024-10-01 16:08:38",
+          "modified": "2024-10-01 16:08:38"
+        },
+        {
+          "name": "Murda - Bi Sonraki Hayatımda Gel.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Murda - Bi Sonraki Hayatımda Gel.mp3",
+          "size": 6784814,
+          "created": "2024-09-30 23:57:57",
+          "modified": "2024-09-30 23:57:57"
+        },
+        {
+          "name": "Ruby J - I Got it From My Mama.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Ruby J - I Got it From My Mama.mp3",
+          "size": 10615294,
+          "created": "2024-10-01 00:12:32",
+          "modified": "2024-10-01 00:12:32"
+        },
+        {
+          "name": "HAVANA BROWN - Ba*Bing.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/HAVANA BROWN - Ba*Bing.mp3",
+          "size": 3560539,
+          "created": "2024-10-01 01:29:02",
+          "modified": "2024-10-01 01:29:02"
+        },
+        {
+          "name": "SALVI - CALABRIA (SALVI & FRANKLIN DAM REMIX).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/SALVI - CALABRIA (SALVI & FRANKLIN DAM REMIX).mp3",
+          "size": 2468715,
+          "created": "2024-10-01 01:39:19",
+          "modified": "2024-10-01 01:39:19"
+        },
+        {
+          "name": "WE GOOD",
+          "type": "directory",
+          "path": "/Volumes/safeboot/music/WE GOOD",
+          "size": null,
+          "created": "2024-09-30 23:36:03",
+          "modified": "2024-09-30 23:36:03",
+          "contents": [
+            {
+              "name": "SEXY 4EVER (feat. Nile Rodgers).mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/WE GOOD/SEXY 4EVER (feat. Nile Rodgers).mp3",
+              "size": 2736405,
+              "created": "2024-09-30 23:57:57",
+              "modified": "2024-09-30 23:57:57"
+            },
+            {
+              "name": "ROT.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/WE GOOD/ROT.mp3",
+              "size": 2804059,
+              "created": "2024-09-30 23:57:57",
+              "modified": "2024-09-30 23:57:57"
+            },
+            {
+              "name": "NICE TO MEET YA (feat. Flyana Boss).mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/WE GOOD/NICE TO MEET YA (feat. Flyana Boss).mp3",
+              "size": 3050342,
+              "created": "2024-09-30 23:57:57",
+              "modified": "2024-09-30 23:57:57"
+            },
+            {
+              "name": "PEPSI COLA.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/WE GOOD/PEPSI COLA.mp3",
+              "size": 2480154,
+              "created": "2024-09-30 23:57:57",
+              "modified": "2024-09-30 23:57:57"
+            },
+            {
+              "name": "GIRLZ.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/WE GOOD/GIRLZ.mp3",
+              "size": 2377630,
+              "created": "2024-09-30 23:57:57",
+              "modified": "2024-09-30 23:57:57"
+            }
+          ]
+        },
+        {
+          "name": "M Lisa - Kim Bilir.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/M Lisa - Kim Bilir.mp3",
+          "size": 3058323,
+          "created": "2024-09-30 23:57:57",
+          "modified": "2024-09-30 23:57:57"
+        },
+        {
+          "name": "HAVANA BROWN - PARTY LIKE A ROCKSTAR.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/HAVANA BROWN - PARTY LIKE A ROCKSTAR.mp3",
+          "size": 3345258,
+          "created": "2024-10-01 01:10:06",
+          "modified": "2024-10-01 01:10:06"
+        },
+        {
+          "name": "HAVANA BROWN - We Run The Night (feat. Pitbull).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/HAVANA BROWN - We Run The Night (feat. Pitbull).mp3",
+          "size": 711478,
+          "created": "2024-10-01 00:41:23",
+          "modified": "2024-10-01 00:41:23"
+        },
+        {
+          "name": "INJI - BELLYDANCING.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/INJI - BELLYDANCING.mp3",
+          "size": 4975385,
+          "created": "2024-10-01 01:10:52",
+          "modified": "2024-10-01 01:10:52"
+        },
+        {
+          "name": "INJI - BELLYDANCING (Extended Mix).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/INJI - BELLYDANCING (Extended Mix).mp3",
+          "size": 2905142,
+          "created": "2024-10-01 01:08:31",
+          "modified": "2024-10-01 01:08:31"
+        },
+        {
+          "name": "İnsanlık Halleri",
+          "type": "directory",
+          "path": "/Volumes/safeboot/music/İnsanlık Halleri",
+          "size": null,
+          "created": "2024-10-01 00:21:31",
+          "modified": "2024-10-01 00:21:31",
+          "contents": [
+            {
+              "name": "Sevişirdik Bazen.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Sevişirdik Bazen.mp3",
+              "size": 4631440,
+              "created": "2024-10-01 00:25:43",
+              "modified": "2024-10-01 00:25:43"
+            },
+            {
+              "name": "Gündüz Düşleri.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Gündüz Düşleri.mp3",
+              "size": 4396125,
+              "created": "2024-10-01 00:25:43",
+              "modified": "2024-10-01 00:25:43"
+            },
+            {
+              "name": "Çoban Yıldızı.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Çoban Yıldızı.mp3",
+              "size": 3093763,
+              "created": "2024-10-01 00:25:44",
+              "modified": "2024-10-01 00:25:44"
+            },
+            {
+              "name": "Galata'da Rıhtımda.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Galata'da Rıhtımda.mp3",
+              "size": 4194259,
+              "created": "2024-10-01 00:25:44",
+              "modified": "2024-10-01 00:25:44"
+            },
+            {
+              "name": "Ruhun Sarışın.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Ruhun Sarışın.mp3",
+              "size": 4156633,
+              "created": "2024-10-01 00:25:43",
+              "modified": "2024-10-01 00:25:43"
+            },
+            {
+              "name": "Yalnız Kalpler Sütunu.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Yalnız Kalpler Sütunu.mp3",
+              "size": 6526478,
+              "created": "2024-10-01 00:25:43",
+              "modified": "2024-10-01 00:25:43"
+            },
+            {
+              "name": "Elveda.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Elveda.mp3",
+              "size": 4545313,
+              "created": "2024-10-01 00:25:44",
+              "modified": "2024-10-01 00:25:44"
+            },
+            {
+              "name": "Mavi Kuş İle Küçük Kız.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Mavi Kuş İle Küçük Kız.mp3",
+              "size": 3896262,
+              "created": "2024-10-01 00:25:43",
+              "modified": "2024-10-01 00:25:43"
+            },
+            {
+              "name": "Uçurtmalar.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Uçurtmalar.mp3",
+              "size": 5312285,
+              "created": "2024-10-01 00:25:43",
+              "modified": "2024-10-01 00:25:43"
+            },
+            {
+              "name": "Fahişe.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Fahişe.mp3",
+              "size": 5130882,
+              "created": "2024-10-01 00:25:44",
+              "modified": "2024-10-01 00:25:44"
+            },
+            {
+              "name": "Bir Kadın Ve Bir Erkek.mp3",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/İnsanlık Halleri/Bir Kadın Ve Bir Erkek.mp3",
+              "size": 4605957,
+              "created": "2024-10-01 00:25:44",
+              "modified": "2024-10-01 00:25:44"
+            }
+          ]
+        },
+        {
+          "name": "_artworks",
+          "type": "directory",
+          "path": "/Volumes/safeboot/music/_artworks",
+          "size": null,
+          "created": "2024-10-01 01:39:47",
+          "modified": "2024-10-01 01:39:47",
+          "contents": [
+            {
+              "name": "artworks-8Hmno7vD3ZK9JjgE-LL3yOA-t500x500.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/artworks-8Hmno7vD3ZK9JjgE-LL3yOA-t500x500.jpg",
+              "size": 73220,
+              "created": "2024-10-01 01:21:18",
+              "modified": "2024-10-01 01:21:18"
+            },
+            {
+              "name": "babing.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/babing.jpg",
+              "size": 24690,
+              "created": "2024-10-01 01:27:39",
+              "modified": "2024-10-01 01:27:39"
+            },
+            {
+              "name": "artworks-h1rFhQZhHhMcQzcm-m4uphg-t500x500.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/artworks-h1rFhQZhHhMcQzcm-m4uphg-t500x500.jpg",
+              "size": 52824,
+              "created": "2024-10-01 01:22:51",
+              "modified": "2024-10-01 01:22:51"
+            },
+            {
+              "name": "artworks-dtB7w0jZwhoQ8JsO-yTq35A-t500x500.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/artworks-dtB7w0jZwhoQ8JsO-yTq35A-t500x500.jpg",
+              "size": 84499,
+              "created": "2024-10-01 01:19:06",
+              "modified": "2024-10-01 01:19:06"
+            },
+            {
+              "name": "bellydancing-mix.jpeg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/bellydancing-mix.jpeg",
+              "size": 110291,
+              "created": "2024-10-01 01:06:28",
+              "modified": "2024-10-01 01:06:28"
+            },
+            {
+              "name": "artworks-9vCKXdYJRyl1eKyA-9EA8zA-t500x500.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/artworks-9vCKXdYJRyl1eKyA-9EA8zA-t500x500.jpg",
+              "size": 95980,
+              "created": "2024-10-01 00:04:58",
+              "modified": "2024-10-01 00:04:58"
+            },
+            {
+              "name": "artworks-OYHQzG6W6GeV-0-t500x500.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/artworks-OYHQzG6W6GeV-0-t500x500.jpg",
+              "size": 48169,
+              "created": "2024-10-01 01:39:41",
+              "modified": "2024-10-01 01:39:41"
+            },
+            {
+              "name": "artworks-cfTluLpxcjNS-0-t500x500.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/artworks-cfTluLpxcjNS-0-t500x500.jpg",
+              "size": 71347,
+              "created": "2024-10-01 01:12:40",
+              "modified": "2024-10-01 01:12:40"
+            },
+            {
+              "name": "avatars-jtPzYNyU4kXFQMcb-KepRgw-t500x500.jpg",
+              "type": "file",
+              "path": "/Volumes/safeboot/music/_artworks/avatars-jtPzYNyU4kXFQMcb-KepRgw-t500x500.jpg",
+              "size": 90262,
+              "created": "2024-10-01 01:25:21",
+              "modified": "2024-10-01 01:25:21"
+            }
+          ]
+        },
+        {
+          "name": "INNA - Endless (Victor Magan Remix).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/INNA - Endless (Victor Magan Remix).mp3",
+          "size": 3229857,
+          "created": "2024-10-01 01:55:48",
+          "modified": "2024-10-01 01:55:48"
+        },
+        {
+          "name": "Tarkan - Öp.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Tarkan - Öp.mp3",
+          "size": 9117214,
+          "created": "2024-09-30 23:57:57",
+          "modified": "2024-09-30 23:57:57"
+        },
+        {
+          "name": "INJI - BORED.mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/INJI - BORED.mp3",
+          "size": 2316132,
+          "created": "2024-10-01 01:17:00",
+          "modified": "2024-10-01 01:17:00"
+        },
+        {
+          "name": "Uydurma (Demo).mp3",
+          "type": "file",
+          "path": "/Volumes/safeboot/music/Uydurma (Demo).mp3",
+          "size": 7290474,
+          "created": "2024-11-28 20:39:30",
+          "modified": "2024-11-28 20:39:30"
+        }
+      ]
+    },
+    {
+      "name": "wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050.zip",
+      "type": "file",
+      "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050.zip",
+      "size": 2242778,
+      "created": "2025-01-02 23:52:12",
+      "modified": "2025-01-02 23:52:12"
+    },
+    {
+      "name": "wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050",
+      "type": "directory",
+      "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050",
+      "size": null,
+      "created": "2025-01-03 00:04:01",
+      "modified": "2025-01-03 00:04:01",
+      "contents": [
+        {
+          "name": "IMG_4406.PNG",
+          "type": "file",
+          "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050/IMG_4406.PNG",
+          "size": 234128,
+          "created": "2025-01-02 23:50:58",
+          "modified": "2025-01-02 23:50:58"
+        },
+        {
+          "name": "d380ff92-108b-4bda-aa1b-0c1ce0f2520c.JPG",
+          "type": "file",
+          "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050/d380ff92-108b-4bda-aa1b-0c1ce0f2520c.JPG",
+          "size": 244630,
+          "created": "2025-01-02 23:50:58",
+          "modified": "2025-01-02 23:50:58"
+        },
+        {
+          "name": "4be89392-4b4c-4100-9488-83883931a7d3.JPG",
+          "type": "file",
+          "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050/4be89392-4b4c-4100-9488-83883931a7d3.JPG",
+          "size": 244755,
+          "created": "2025-01-02 23:50:58",
+          "modified": "2025-01-02 23:50:58"
+        },
+        {
+          "name": "aleyna logo-kartvizit-06.JPG",
+          "type": "file",
+          "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050/aleyna logo-kartvizit-06.JPG",
+          "size": 528632,
+          "created": "2025-01-02 23:50:58",
+          "modified": "2025-01-02 23:50:58"
+        },
+        {
+          "name": "aleyna logo-kartvizit-03.JPG",
+          "type": "file",
+          "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050/aleyna logo-kartvizit-03.JPG",
+          "size": 771422,
+          "created": "2025-01-02 23:50:58",
+          "modified": "2025-01-02 23:50:58"
+        },
+        {
+          "name": "IMG_4404.PNG",
+          "type": "file",
+          "path": "/Volumes/safeboot/wetransfer_aleyna-logo-kartvizit-03-jpg_2025-01-02_2050/IMG_4404.PNG",
+          "size": 218286,
+          "created": "2025-01-02 23:50:58",
+          "modified": "2025-01-02 23:50:58"
+        }
+      ]
+    },
+    {
+      "name": "leylek",
+      "type": "directory",
+      "path": "/Volumes/safeboot/leylek",
+      "size": null,
+      "created": "2025-04-17 11:09:59",
+      "modified": "2025-04-17 11:09:59",
+      "contents": [
+        {
+          "name": "Leylek.pdf",
+          "type": "file",
+          "path": "/Volumes/safeboot/leylek/Leylek.pdf",
+          "size": 41014,
+          "created": "2025-04-17 11:07:36",
+          "modified": "2025-04-17 11:07:36"
+        }
+      ]
+    },
+    {
+      "name": "Metehan Alp Saral - 220507025 İleri Kurgu",
+      "type": "directory",
+      "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu",
+      "size": null,
+      "created": "2025-04-14 14:28:46",
+      "modified": "2025-04-14 14:28:46",
+      "contents": [
+        {
+          "name": "Soru-1.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Soru-1.mp4",
+          "size": 86948370,
+          "created": "2025-04-14 14:29:08",
+          "modified": "2025-04-14 14:29:08"
+        },
+        {
+          "name": "Soru-1.prproj",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Soru-1.prproj",
+          "size": 24388,
+          "created": "2025-04-14 14:30:04",
+          "modified": "2025-04-14 14:30:04"
+        },
+        {
+          "name": "Soru-2.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Soru-2.mp4",
+          "size": 173085525,
+          "created": "2025-04-14 14:34:34",
+          "modified": "2025-04-14 14:34:34"
+        },
+        {
+          "name": "Soru-2.prproj",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Soru-2.prproj",
+          "size": 33764,
+          "created": "2025-04-14 14:34:44",
+          "modified": "2025-04-14 14:34:44"
+        },
+        {
+          "name": "Adobe Premiere Pro Auto-Save",
+          "type": "directory",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Adobe Premiere Pro Auto-Save",
+          "size": null,
+          "created": "2025-04-14 14:34:47",
+          "modified": "2025-04-14 14:34:47",
+          "contents": [
+            {
+              "name": "Soru-2--85c635a5-ea48-2b90-c101-be19881ffdd0-2025-04-14_14-34-47.prproj",
+              "type": "file",
+              "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Adobe Premiere Pro Auto-Save/Soru-2--85c635a5-ea48-2b90-c101-be19881ffdd0-2025-04-14_14-34-47.prproj",
+              "size": 32472,
+              "created": "2025-04-14 14:34:48",
+              "modified": "2025-04-14 14:34:48"
+            },
+            {
+              "name": "Cevap2--78d752d2-4c5e-5161-743f-dcec38ffd118-2025-05-12_15-03-23.prproj",
+              "type": "file",
+              "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Adobe Premiere Pro Auto-Save/Cevap2--78d752d2-4c5e-5161-743f-dcec38ffd118-2025-05-12_15-03-23.prproj",
+              "size": 13573,
+              "created": "2025-05-12 15:03:24",
+              "modified": "2025-05-12 15:03:24"
+            },
+            {
+              "name": "Soru-2--bb00a571-053b-ee08-1148-9403d64090b3-2025-05-12_15-05-23.prproj",
+              "type": "file",
+              "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Adobe Premiere Pro Auto-Save/Soru-2--bb00a571-053b-ee08-1148-9403d64090b3-2025-05-12_15-05-23.prproj",
+              "size": 33543,
+              "created": "2025-05-12 15:05:24",
+              "modified": "2025-05-12 15:05:24"
+            },
+            {
+              "name": "Soru-3--f677f94a-9afd-142b-e4d0-2579b1ae18f4-2025-05-12_15-06-23.prproj",
+              "type": "file",
+              "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Adobe Premiere Pro Auto-Save/Soru-3--f677f94a-9afd-142b-e4d0-2579b1ae18f4-2025-05-12_15-06-23.prproj",
+              "size": 37553,
+              "created": "2025-05-12 15:06:24",
+              "modified": "2025-05-12 15:06:24"
+            }
+          ]
+        },
+        {
+          "name": "Soru-3.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Soru-3.mp4",
+          "size": 2893212,
+          "created": "2025-04-14 14:39:40",
+          "modified": "2025-04-14 14:39:40"
+        },
+        {
+          "name": "Soru-3.prproj",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Soru-3.prproj",
+          "size": 37141,
+          "created": "2025-04-14 14:40:06",
+          "modified": "2025-04-14 14:40:06"
+        },
+        {
+          "name": "Sorular 1-2-3.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Sorular 1-2-3.mp4",
+          "size": 113581095,
+          "created": "2025-04-14 14:42:32",
+          "modified": "2025-04-14 14:42:32"
+        },
+        {
+          "name": "Sorular 1-2-3.prproj",
+          "type": "file",
+          "path": "/Volumes/safeboot/Metehan Alp Saral - 220507025 İleri Kurgu/Sorular 1-2-3.prproj",
+          "size": 32851,
+          "created": "2025-04-14 14:42:54",
+          "modified": "2025-04-14 14:42:54"
+        }
+      ]
+    },
+    {
+      "name": "220507025 Metehan Alp Saral",
+      "type": "directory",
+      "path": "/Volumes/safeboot/220507025 Metehan Alp Saral",
+      "size": null,
+      "created": "2025-05-12 15:08:52",
+      "modified": "2025-05-12 15:08:52",
+      "contents": [
+        {
+          "name": "Soru-1.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/220507025 Metehan Alp Saral/Soru-1.mp4",
+          "size": 85293209,
+          "created": "2025-05-12 14:56:56",
+          "modified": "2025-05-12 14:56:56"
+        },
+        {
+          "name": "Soru-2.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/220507025 Metehan Alp Saral/Soru-2.mp4",
+          "size": 173085525,
+          "created": "2025-05-12 15:00:28",
+          "modified": "2025-05-12 15:00:28"
+        },
+        {
+          "name": "Soru-3.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/220507025 Metehan Alp Saral/Soru-3.mp4",
+          "size": 1630556,
+          "created": "2025-05-12 15:08:58",
+          "modified": "2025-05-12 15:08:58"
+        }
+      ]
+    },
+    {
+      "name": "ses",
+      "type": "directory",
+      "path": "/Volumes/safeboot/ses",
+      "size": null,
+      "created": "2025-05-12 15:42:36",
+      "modified": "2025-05-12 15:42:36",
+      "contents": [
+        {
+          "name": "06_CABIN_Assembly04_group photo.mov",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/06_CABIN_Assembly04_group photo.mov",
+          "size": 18089647,
+          "created": "2016-08-13 05:51:34",
+          "modified": "2016-08-13 05:51:34"
+        },
+        {
+          "name": "06_CAMP_FireStart02_buildfire.mov",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/06_CAMP_FireStart02_buildfire.mov",
+          "size": 4346052,
+          "created": "2016-08-13 05:52:46",
+          "modified": "2016-08-13 05:52:46"
+        },
+        {
+          "name": "06_CGRAYLING_IntTrainingCenter01_rollovertraining2.mov",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/06_CGRAYLING_IntTrainingCenter01_rollovertraining2.mov",
+          "size": 35394623,
+          "created": "2016-08-13 06:09:16",
+          "modified": "2016-08-13 06:09:16"
+        },
+        {
+          "name": "100126393-jolly-irish-tune.wav",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/100126393-jolly-irish-tune.wav",
+          "size": 41191042,
+          "created": "2019-10-18 08:18:56",
+          "modified": "2019-10-18 08:18:56"
+        },
+        {
+          "name": "321194_Valor.wav",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/321194_Valor.wav",
+          "size": 15937196,
+          "created": "2016-08-25 09:40:16",
+          "modified": "2016-08-25 09:40:16"
+        },
+        {
+          "name": "Casey_asking for help is so important for vets.mov",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/Casey_asking for help is so important for vets.mov",
+          "size": 18463347,
+          "created": "2016-08-12 08:47:04",
+          "modified": "2016-08-12 08:47:04"
+        },
+        {
+          "name": "NOISE_SES_01.wav",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/NOISE_SES_01.wav",
+          "size": 17416980,
+          "created": "2019-11-06 14:23:50",
+          "modified": "2019-11-06 14:23:50"
+        },
+        {
+          "name": "SAHNE+3-1-7.mp4",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/SAHNE+3-1-7.mp4",
+          "size": 166567854,
+          "created": "2025-05-12 10:19:26",
+          "modified": "2025-05-12 10:19:26"
+        },
+        {
+          "name": "SAHNE+3-1-7.wav",
+          "type": "file",
+          "path": "/Volumes/safeboot/ses/SAHNE+3-1-7.wav",
+          "size": 30326370,
+          "created": "2025-05-12 10:18:36",
+          "modified": "2025-05-12 10:18:36"
+        }
+      ]
+    }
+  ]
+}
