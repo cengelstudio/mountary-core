@@ -16,7 +16,20 @@ LOGGING_CONFIG = {
 
 DISK_CONFIG = {
     'scan_interval': 1,  # seconds
-    'json_output_dir': 'logs'
+    'json_output_dir': 'logs',
+    'disk_label': {
+        'enabled': True,  # Enable/disable disk label validation
+        'pattern': r'^[SH]-PLKL\d+TB\d+$',  # Regex pattern for disk labels
+        'description': {
+            'pattern': 'S-PLKL2TB4 format where:',
+            'rules': [
+                'First character: S (SSD) or H (HDD)',
+                'PLKL: Company identifier',
+                'Number: Storage capacity in TB',
+                'Last number: Disk sequence number'
+            ]
+        }
+    }
 }
 
 COLORS = {

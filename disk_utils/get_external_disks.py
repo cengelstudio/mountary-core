@@ -1,8 +1,10 @@
 import psutil
 import platform
 import os
+import re
 from disk_utils.get_disk_label import get_disk_label
 from disk_utils.get_disk_serial import get_disk_serial
+from config.config import DISK_CONFIG
 
 def generate_disk_id(disk_info):
     """
@@ -13,6 +15,17 @@ def generate_disk_id(disk_info):
     # Convert to lowercase and replace spaces with underscores
     safe_label = label.lower().replace(' ', '_')
     return safe_label
+
+def validate_disk_label(label):
+    """
+    Validate disk label against the configured regex pattern.
+    Returns True if validation is disabled or if the label matches the pattern.
+    """
+    if not DISK_CONFIG['disk_label']['enabled']:
+        return True
+
+    pattern = DISK_CONFIG['disk_label']['pattern']
+    return bool(re.match(pattern, label))
 
 def get_external_disks():
     partitions = psutil.disk_partitions(all=True)
@@ -38,6 +51,17 @@ def get_external_disks():
 
         try:
             usage = psutil.disk_usage(partition.mountpoint)
+            disk_label = get_disk_label(partition.mountpoint)
+
+            # Skip unnamed drives
+            if disk_label == 'unnamed_drive':
+                continue
+
+            # Validate disk label
+            if not validate_disk_label(disk_label):
+                print(f"Skipping disk with invalid label format: {disk_label}")
+                continue
+
             disk_info = {
                 'device': partition.device,
                 'mountpoint': partition.mountpoint,
@@ -46,13 +70,9 @@ def get_external_disks():
                 'used': usage.used,
                 'free': usage.free,
                 'percent': usage.percent,
-                'label': get_disk_label(partition.mountpoint),
+                'label': disk_label,
                 'serial': get_disk_serial(partition.device)
             }
-
-            # Skip unnamed drives
-            if disk_info['label'] == 'unnamed_drive':
-                continue
 
             # Add unique disk ID before appending to list
             disk_info['disk_id'] = generate_disk_id(disk_info)
