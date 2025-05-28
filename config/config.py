@@ -2,27 +2,23 @@
 Configuration settings for the application.
 """
 
-# API Configuration
 API_CONFIG = {
     'base_url': 'http://127.0.0.1:5000',
     'timeout': 30,  # seconds
     'retry_attempts': 3
 }
 
-# Logging Configuration
 LOGGING_CONFIG = {
     'log_level': 'INFO',
     'log_format': '%(asctime)s - %(levelname)s - %(message)s',
     'log_file': 'logs/app.log'
 }
 
-# Disk Monitoring Configuration
 DISK_CONFIG = {
     'scan_interval': 1,  # seconds
     'json_output_dir': 'logs'
 }
 
-# Terminal Colors Configuration
 COLORS = {
     'HEADER': '\033[95m',      # Purple
     'BLUE': '\033[94m',        # Blue
