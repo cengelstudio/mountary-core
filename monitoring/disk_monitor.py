@@ -60,6 +60,27 @@ class DiskMonitor:
                 # Çıkarılan diskleri izlemeyi durdur
                 removed_disks = self.monitored_disks - current_disk_ids
                 for disk_id in removed_disks:
+                    # Çıkarılan diskin eski bilgilerini bul
+                    old_disk_info = None
+                    for _, observer in self.observers:
+                        if _ == disk_id:
+                            # observer objesinin disk_info'su yok, eski diskleri initial_disks ve current_disks'ten bulmamız gerek
+                            break
+                    # disk_id ile eşleşen eski disk_info'yu initial_disks ve current_disks'ten bul
+                    old_disk_info = None
+                    for disk in initial_disks:
+                        if disk['disk_id'] == disk_id:
+                            old_disk_info = disk
+                            break
+                    if not old_disk_info:
+                        for disk in current_disks:
+                            if disk['disk_id'] == disk_id:
+                                old_disk_info = disk
+                                break
+                    if old_disk_info:
+                        disconnected_info = old_disk_info.copy()
+                        disconnected_info['connected'] = False
+                        save_disk_contents(disconnected_info)
                     self._stop_disk_monitoring(disk_id)
                     self.monitored_disks.remove(disk_id)
 

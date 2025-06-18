@@ -71,7 +71,8 @@ def get_external_disks():
                 'free': usage.free,
                 'percent': usage.percent,
                 'label': disk_label,
-                'serial': get_disk_serial(partition.device)
+                'serial': get_disk_serial(partition.device),
+                'connected': True
             }
 
             # Add unique disk ID before appending to list

@@ -6,6 +6,7 @@ import requests
 import unicodedata
 import time
 from config.config import API_CONFIG, COLORS
+import psutil
 
 def print_colored(text, color):
     """Print colored text to terminal."""
@@ -106,7 +107,7 @@ def get_file_info(path):
         }
 
 def scan_directory(path, retry_count=3, retry_delay=1):
-    """Scan directory and return list of files and folders with their details."""
+    """Scan directory and return list of files and folders with their details. Also calculates directory sizes recursively."""
     items = []
     normalized_path = normalize_path(path)
 
@@ -146,18 +147,29 @@ def scan_directory(path, retry_count=3, retry_delay=1):
                 if file_info is None:
                     continue
 
+                is_dir = os.path.isdir(normalized_full_path)
                 item_info = {
                     'name': item,
-                    'type': 'directory' if os.path.isdir(normalized_full_path) else 'file',
+                    'type': 'directory' if is_dir else 'file',
                     'path': normalized_full_path,
                     **file_info
                 }
 
-                if os.path.isdir(normalized_full_path):
+                if is_dir:
                     # Recursively scan subdirectories
                     sub_items = scan_directory(normalized_full_path, retry_count, retry_delay)
                     if sub_items:  # Only add directory if it has non-excluded contents
                         item_info['contents'] = sub_items
+                        # Calculate total size of directory (sum of all children)
+                        total_size = 0
+                        for sub_item in sub_items:
+                            if sub_item.get('size') is not None:
+                                total_size += sub_item['size']
+                        item_info['size'] = total_size
+                        items.append(item_info)
+                    else:
+                        # Empty directory, size is 0
+                        item_info['size'] = 0
                         items.append(item_info)
                 else:
                     items.append(item_info)
@@ -186,6 +198,19 @@ def send_to_api(data):
 
 def save_disk_contents(disk_info):
     """Save disk contents to a JSON file and send to API."""
+    # Her seferinde güncel disk boyutunu oku
+    disk_info = disk_info.copy()
+    if 'connected' not in disk_info:
+        disk_info['connected'] = True
+    try:
+        usage = psutil.disk_usage(disk_info['mountpoint'])
+        disk_info['total_size'] = usage.total
+        disk_info['used'] = usage.used
+        disk_info['free'] = usage.free
+        disk_info['percent'] = usage.percent
+    except Exception as e:
+        print_colored(f"Disk boyutu güncellenemedi: {e}", COLORS['ERROR'])
+
     # Use disk_id for the filename to ensure consistency
     filename = f"logs/disk_{disk_info['disk_id']}.json"
 
